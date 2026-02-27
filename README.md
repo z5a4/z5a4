@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Full Stack Developer with 1.5+ years of hands-on experience in backend and frontend
+Full Stack Developer with 2 years of hands-on experience in backend and frontend
 
 development using Python (FastAPI), MERN stack, and Next.js, along with AI-powered
 
